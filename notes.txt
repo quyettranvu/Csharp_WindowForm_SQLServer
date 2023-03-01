@@ -1,4 +1,4 @@
-1/
+1/(WindowsFormsApp1)
 /*Overview about encryption*/
 Encryption is a process of converting plain text into cipher text using a secret key. There are two types of encryption algorithms: symmetric and asymmetric.
 
@@ -10,7 +10,7 @@ Develop a Window Forms application to encrypt files on the .NET Framework using 
 Program: WindowsFormApp1
 Testcase encryption key for first exercise: 0F1571C947D9E859
 
-2/
+2/(ConsoleApp1)
 Develop an application for scanning computer ports on the .NET Framework:
 Program: ConsoleApp1
 Testcase Ports for choosing range:
@@ -23,7 +23,7 @@ Testcase Ports for choosing range:
 5432 (PostgreSQL)
 
 
-3/
+3/(WindowsFormsApp2 + WindowsFormsApp2Copy)
 Develop a Windows application to access the database (with getting and processing data from the database):
 4 methods to connect to SQLServer with Window Forms in Visual Studio:
 -Normal SQL Queries
