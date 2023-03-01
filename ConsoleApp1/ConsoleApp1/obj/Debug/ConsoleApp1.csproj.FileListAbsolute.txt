@@ -1,0 +1,7 @@
+D:\C# Onit Programs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\C# Onit Programs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\C# Onit Programs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\C# Onit Programs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\C# Onit Programs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\C# Onit Programs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\C# Onit Programs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

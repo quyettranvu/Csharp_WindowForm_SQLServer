@@ -1,0 +1,32 @@
+1/
+/*Overview about encryption*/
+Encryption is a process of converting plain text into cipher text using a secret key. There are two types of encryption algorithms: symmetric and asymmetric.
+
+Symmetric encryption algorithms use the same key for both encryption and decryption. DES (Data Encryption Standard) and AES (Advanced Encryption Standard) are examples of symmetric encryption algorithms.
+
+Asymmetric encryption algorithms use two different keys for encryption and decryption. RSA (Rivest–Shamir–Adleman) is an example of an asymmetric encryption algorithm.
+
+Develop a Window Forms application to encrypt files on the .NET Framework using the DES and AES encryption algorithms:
+Program: WindowsFormApp1
+Testcase encryption key for first exercise: 0F1571C947D9E859
+
+2/
+Develop an application for scanning computer ports on the .NET Framework:
+Program: ConsoleApp1
+Testcase Ports for choosing range:
+80 (HTTP)
+443 (HTTPS)
+22 (SSH)
+3389 (Remote Desktop Protocol)
+1433 (Microsoft SQL Server)
+3306 (MySQL)
+5432 (PostgreSQL)
+
+
+3/
+Develop a Windows application to access the database (with getting and processing data from the database):
+4 methods to connect to SQLServer with Window Forms in Visual Studio:
+-Normal SQL Queries
+-stored Procedure to store all SQL queries
+-Linq to SQL Server 
+-Entities Framework

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Demo">
+  <DataContextMoniker Name="/DemoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f639a3ae-1ad4-48cd-8546-728a9f3aa268" absoluteBounds="0.75, 1.125, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/DemoDataContext/PhongBan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4af5cc56-9be3-4554-8e79-7b06afea4964" absoluteBounds="0.765, 1.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fd69a531-54f3-404a-b78b-986e3c98e24a" absoluteBounds="3.5, 0.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DemoDataContext/SinhVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8aeac7cc-2eea-4b84-ae8d-c8c469d1b815" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.72199625651042); (3.5 : 1.72199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DemoDataContext/PhongBan/PhongBan_SinhVien" />
+      <nodes>
+        <classShapeMoniker Id="f639a3ae-1ad4-48cd-8546-728a9f3aa268" />
+        <classShapeMoniker Id="fd69a531-54f3-404a-b78b-986e3c98e24a" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
